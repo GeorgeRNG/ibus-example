@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<component>
+	<name>org.freedesktop.IBus.ibustest</name>
+	<description>ibus test</description>
+	<exec></exec>
+	<version></version>
+	<author></author>
+	<license></license>
+	<homepage></homepage>
+	<textdomain>ibus-test</textdomain>
+
+	<engines>
+		<engine>
+			<name>ibustest</name>
+			<language>en</language>
+			<license>GPL</license>
+			<author></author>
+			<icon></icon>
+			<layout>us</layout>
+			<longname>Ibus Test</longname>
+			<description>A small test ibus input method.</description>
+			<rank>0</rank>
+		</engine>
+	</engines>
+
+</component>
